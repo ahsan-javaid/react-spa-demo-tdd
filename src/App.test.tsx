@@ -16,7 +16,7 @@ function apiCall() {
   mockedAxios.get.mockResolvedValueOnce({
     data: DummyUsers
   });
-}
+};
 
 test('Should render the app with list of users', async () => {
   const url = `/users`;

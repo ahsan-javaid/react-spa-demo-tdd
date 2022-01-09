@@ -8,4 +8,4 @@ export const getUsers = (): Promise<Array<User>> => {
 
 export const getAvatar = (username: string): string => {
   return `${AVATAR_URL}/${username}.svg`;
-}
+};

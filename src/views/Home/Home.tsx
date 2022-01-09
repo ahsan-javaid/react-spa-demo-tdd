@@ -20,4 +20,4 @@ export const Home = () => {
   }
 
   return (<List users={users}/>);
-}
+};
