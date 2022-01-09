@@ -1,5 +1,5 @@
 export const useCardStyles = () => ({
-  card: { width: 300, margin: 10},
+  card: { margin: 15 },
   meta: { marginBottom: 5},
   avatar: { maxHeight: 200, background: '#F5F5F5' },
   heart: { color: '#eb2f96'},
