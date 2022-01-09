@@ -23,4 +23,3 @@ yarn-debug.log*
 yarn-error.log*
 deploy.sh
 .idea
-package-lock.json
