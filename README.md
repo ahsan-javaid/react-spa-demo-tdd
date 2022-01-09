@@ -11,7 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * TDD: Unit tests included using [react testing library](https://testing-library.com/docs/react-testing-library/intro/)
 * To execute tests run: `npm run test` in the root of the project
 
-## Demo Link:
+## Visit Live Demo
+https://wizardly-hodgkin-6f0800.netlify.app
 
 ## Available Scripts
 
@@ -34,4 +35,4 @@ Generates `build` folder at the root of the project
 
 ![Screenshot](docs/design-view.png)
 
-[Visit live Demo at: ](https://iruuzainc.notion.site/React-Coding-Assignment-d55c556b441a45c7b3cc57ce217e6e8b)
+[Visit live Demo at https://wizardly-hodgkin-6f0800.netlify.app/](https://wizardly-hodgkin-6f0800.netlify.app)
