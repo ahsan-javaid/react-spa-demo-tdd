@@ -31,7 +31,6 @@ Launches the test runner in the interactive watch mode.
 Generates `build` folder at the root of the project
 
 ## Documentation
-[See details in docs directory](https://iruuzainc.notion.site/React-Coding-Assignment-d55c556b441a45c7b3cc57ce217e6e8b)
 
 ![Screenshot](docs/design-view.png)
 
